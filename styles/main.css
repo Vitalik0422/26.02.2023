@@ -4,9 +4,9 @@
 }
 
 .item {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   background: url("https://cdn.create.vista.com/api/media/small/160007198/stock-vector-walking-man-vector-icon-people");
-  background-size: 300px 300px;
+  background-size: 100px 100px;
   transition: 0.09s linear;
 }/*# sourceMappingURL=main.css.map */
